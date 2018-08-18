@@ -11,6 +11,6 @@ Features:
 
 Feel free to use this on your project. Just don't forget to include the credits :D
 
-Donation are kindy accepted, even just $0.1 :))
+Donation are kindly accepted, even just $0.1 :))
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P6K9TSFA4QMEL)
